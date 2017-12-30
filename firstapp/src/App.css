@@ -1,0 +1,13 @@
+.App {
+  font-family: 'FontAwesome';
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 25px;
+}
+
+.Tabs{
+ padding-top: 15px;
+}
+

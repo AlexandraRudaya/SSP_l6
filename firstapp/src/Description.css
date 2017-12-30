@@ -1,0 +1,41 @@
+.Description{
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: baseline;
+    padding-left: 20px;
+    width: 220px;
+}
+.Author{
+  color: #8B0000;
+  font-weight: 400;
+}
+
+
+h3, p{
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.Login{
+	color:#B22222;
+	margin-bottom: 10px;
+}
+
+.Info{
+	width: 90%;
+	color:#B22222;
+}
+
+.fa{
+	padding-left: 3px;
+	color:#FF7F50;
+}
+
+hr{
+	margin-bottom: 10px;
+	color: #C0C0C0;
+}
+
+.Contacts{
+	flex-direction: column;
+}

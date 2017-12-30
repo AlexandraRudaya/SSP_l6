@@ -1,0 +1,11 @@
+.Logotype {
+  width: 200px;
+  height: 180px;
+  padding: 10px;
+  
+}
+
+img {
+	border: 2px solid #fff;
+	border-radius: 30px;
+}
